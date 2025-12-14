@@ -101,7 +101,17 @@ Whether you're analyzing earnings risk or building the next fintech startup, Tra
   </table>
 </div>
 
-> 🎥 **Video Demo:** *Coming soon*
+## 🎥 Video Demo
+
+<div align="center">
+
+<a href="https://youtu.be/nIjras-Jvl8" target="_blank">
+  <img src="https://img.youtube.com/vi/nIjras-Jvl8/maxresdefault.jpg" alt="TradingRAG Pro Video Demo" width="720" />
+</a>
+
+*Click the thumbnail to watch the full TradingRAG Pro demo on YouTube.*
+
+</div>
 
 ---
 
@@ -365,8 +375,8 @@ This project is licensed under the **MIT License**.
 
 <div align="center">
 
-**Made  by Arslan Parkar**
+**Made with  by Arslan Parkar**
 
-
+[⬆ Back to Top](#-tradingrag-pro--financial-research-ai-assistant)
 
 </div>
