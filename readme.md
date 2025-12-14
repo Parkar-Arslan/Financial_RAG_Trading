@@ -356,6 +356,46 @@ The authors assume **no liability** for financial outcomes.
 
 ---
 
+## 📚 Resources & Further Reading
+
+To better understand the technologies and concepts behind **TradingRAG Pro**, the following resources are recommended:
+
+* 📖 **RAG Technology Explained** – *Google Cloud*: What is Retrieval-Augmented Generation (RAG)
+* 🎓 **Financial Analysis Basics** – *Investopedia*: Comprehensive guide to financial analysis concepts
+* 🤖 **Groq Documentation** – Groq API Reference and model usage
+* 🦙 **Ollama Documentation** – Official guides for running LLMs locally
+* 💾 **ChromaDB Guide** – Vector database concepts and implementation
+
+These references provide foundational knowledge for both the **AI architecture** and **financial reasoning** used throughout the project.
+
+---
+
+## 🙏 Acknowledgments
+
+TradingRAG Pro is built on top of the following outstanding open-source tools and platforms:
+
+* **Groq** – High-performance LLM inference
+  [https://groq.com/](https://groq.com/)
+
+* **Ollama** – Local-first LLM runtime
+  [https://ollama.ai/](https://ollama.ai/)
+
+* **ChromaDB** – Open-source vector database
+  [https://www.trychroma.com/](https://www.trychroma.com/)
+
+* **Yahoo Finance (yfinance)** – Financial market data
+  [https://ranaroussi.github.io/yfinance/](https://ranaroussi.github.io/yfinance/)
+
+* **Streamlit** – Interactive UI framework
+  [https://streamlit.io/](https://streamlit.io/)
+
+* **Sentence Transformers** – Text embedding models
+  [https://sbert.net/](https://sbert.net/)
+
+This project would not be possible without the open-source community and the maintainers of these tools.
+
+---
+
 ## 🤝 Contributing
 
 Contributions are welcome 🚀
@@ -375,8 +415,7 @@ This project is licensed under the **MIT License**.
 
 <div align="center">
 
-**Made with  by Arslan Parkar**
+**Made with by Arslan Parkar**
 
-[⬆ Back to Top](#-tradingrag-pro--financial-research-ai-assistant)
 
 </div>
