@@ -1,0 +1,142 @@
+[
+  {
+    "text": "Company: AAPL AAPL Sector: Unknown Industry: Unknown Business Summary: Key Metrics: - Market Cap: $0 - P/E Ratio: 0.00 - Current Price: $0.00 - Analyst Recommendation: none",
+    "ticker": "AAPL",
+    "company_name": "AAPL",
+    "type": "Company Overview",
+    "chunk_id": 0,
+    "date": "2025-12-13T19:13:25.357824",
+    "metadata": {
+      "sector": "Unknown",
+      "industry": "Unknown",
+      "market_cap": 0,
+      "pe_ratio": 0
+    }
+  },
+  {
+    "text": "Company: MSFT MSFT Sector: Unknown Industry: Unknown Business Summary: Key Metrics: - Market Cap: $0 - P/E Ratio: 0.00 - Current Price: $0.00 - Analyst Recommendation: none",
+    "ticker": "MSFT",
+    "company_name": "MSFT",
+    "type": "Company Overview",
+    "chunk_id": 0,
+    "date": "2025-12-13T19:13:45.467980",
+    "metadata": {
+      "sector": "Unknown",
+      "industry": "Unknown",
+      "market_cap": 0,
+      "pe_ratio": 0
+    }
+  },
+  {
+    "text": "Company: GOOGL GOOGL Sector: Unknown Industry: Unknown Business Summary: Key Metrics: - Market Cap: $0 - P/E Ratio: 0.00 - Current Price: $0.00 - Analyst Recommendation: none",
+    "ticker": "GOOGL",
+    "company_name": "GOOGL",
+    "type": "Company Overview",
+    "chunk_id": 0,
+    "date": "2025-12-13T19:14:04.658187",
+    "metadata": {
+      "sector": "Unknown",
+      "industry": "Unknown",
+      "market_cap": 0,
+      "pe_ratio": 0
+    }
+  },
+  {
+    "text": "Company: AMZN AMZN Sector: Unknown Industry: Unknown Business Summary: Key Metrics: - Market Cap: $0 - P/E Ratio: 0.00 - Current Price: $0.00 - Analyst Recommendation: none",
+    "ticker": "AMZN",
+    "company_name": "AMZN",
+    "type": "Company Overview",
+    "chunk_id": 0,
+    "date": "2025-12-13T19:14:26.042909",
+    "metadata": {
+      "sector": "Unknown",
+      "industry": "Unknown",
+      "market_cap": 0,
+      "pe_ratio": 0
+    }
+  },
+  {
+    "text": "Company: NVDA NVDA Sector: Unknown Industry: Unknown Business Summary: Key Metrics: - Market Cap: $0 - P/E Ratio: 0.00 - Current Price: $0.00 - Analyst Recommendation: none",
+    "ticker": "NVDA",
+    "company_name": "NVDA",
+    "type": "Company Overview",
+    "chunk_id": 0,
+    "date": "2025-12-13T19:14:43.695998",
+    "metadata": {
+      "sector": "Unknown",
+      "industry": "Unknown",
+      "market_cap": 0,
+      "pe_ratio": 0
+    }
+  },
+  {
+    "text": "Company: META META Sector: Unknown Industry: Unknown Business Summary: Key Metrics: - Market Cap: $0 - P/E Ratio: 0.00 - Current Price: $0.00 - Analyst Recommendation: none",
+    "ticker": "META",
+    "company_name": "META",
+    "type": "Company Overview",
+    "chunk_id": 0,
+    "date": "2025-12-13T19:15:01.861969",
+    "metadata": {
+      "sector": "Unknown",
+      "industry": "Unknown",
+      "market_cap": 0,
+      "pe_ratio": 0
+    }
+  },
+  {
+    "text": "Company: TSLA TSLA Sector: Unknown Industry: Unknown Business Summary: Key Metrics: - Market Cap: $0 - P/E Ratio: 0.00 - Current Price: $0.00 - Analyst Recommendation: none",
+    "ticker": "TSLA",
+    "company_name": "TSLA",
+    "type": "Company Overview",
+    "chunk_id": 0,
+    "date": "2025-12-13T19:15:18.365818",
+    "metadata": {
+      "sector": "Unknown",
+      "industry": "Unknown",
+      "market_cap": 0,
+      "pe_ratio": 0
+    }
+  },
+  {
+    "text": "Company: JPM JPM Sector: Unknown Industry: Unknown Business Summary: Key Metrics: - Market Cap: $0 - P/E Ratio: 0.00 - Current Price: $0.00 - Analyst Recommendation: none",
+    "ticker": "JPM",
+    "company_name": "JPM",
+    "type": "Company Overview",
+    "chunk_id": 0,
+    "date": "2025-12-13T19:15:36.031851",
+    "metadata": {
+      "sector": "Unknown",
+      "industry": "Unknown",
+      "market_cap": 0,
+      "pe_ratio": 0
+    }
+  },
+  {
+    "text": "Company: V V Sector: Unknown Industry: Unknown Business Summary: Key Metrics: - Market Cap: $0 - P/E Ratio: 0.00 - Current Price: $0.00 - Analyst Recommendation: none",
+    "ticker": "V",
+    "company_name": "V",
+    "type": "Company Overview",
+    "chunk_id": 0,
+    "date": "2025-12-13T19:15:52.225228",
+    "metadata": {
+      "sector": "Unknown",
+      "industry": "Unknown",
+      "market_cap": 0,
+      "pe_ratio": 0
+    }
+  },
+  {
+    "text": "Company: JNJ JNJ Sector: Unknown Industry: Unknown Business Summary: Key Metrics: - Market Cap: $0 - P/E Ratio: 0.00 - Current Price: $0.00 - Analyst Recommendation: none",
+    "ticker": "JNJ",
+    "company_name": "JNJ",
+    "type": "Company Overview",
+    "chunk_id": 0,
+    "date": "2025-12-13T19:16:10.235366",
+    "metadata": {
+      "sector": "Unknown",
+      "industry": "Unknown",
+      "market_cap": 0,
+      "pe_ratio": 0
+    }
+  }
+]

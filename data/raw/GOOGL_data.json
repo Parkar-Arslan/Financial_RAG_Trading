@@ -1,0 +1,29 @@
+{
+  "ticker": "GOOGL",
+  "company_name": "GOOGL",
+  "sector": "Unknown",
+  "industry": "Unknown",
+  "market_cap": 0,
+  "pe_ratio": 0,
+  "forward_pe": 0,
+  "dividend_yield": 0,
+  "beta": 0,
+  "52_week_high": 0,
+  "52_week_low": 0,
+  "current_price": 0,
+  "target_price": 0,
+  "revenue": 0,
+  "gross_profit": 0,
+  "operating_income": 0,
+  "business_summary": "",
+  "recent_news": [],
+  "analyst_recommendation": "none",
+  "collected_date": "2025-12-13T19:14:04.658123",
+  "documents": [
+    {
+      "type": "Company Overview",
+      "content": "\n        Company: GOOGL (GOOGL)\n        Sector: Unknown\n        Industry: Unknown\n        \n        Business Summary:\n        \n        \n        Key Metrics:\n        - Market Cap: $0\n        - P/E Ratio: 0.00\n        - Current Price: $0.00\n        - Analyst Recommendation: none\n        ",
+      "date": "2025-12-13T19:14:04.658187"
+    }
+  ]
+}
